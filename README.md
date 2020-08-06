@@ -1,6 +1,6 @@
 # NgQuiz
-https://github.com/krsln/NgQuiz
-Demo [https://krsln.github.io/NgTourism](https://krsln.github.io/NgQuiz)
+https://github.com/krsln/NgQuiz  
+Demo [https://krsln.github.io/NgQuiz](https://krsln.github.io/NgQuiz)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
